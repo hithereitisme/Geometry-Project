@@ -1,0 +1,26 @@
+.img{
+    width: 300px;
+    height: auto;
+
+    padding-top: 200px;
+}
+
+.button {
+    margin-top: 25px;
+    margin-left: 650px;
+}
+
+.button a {
+    padding: 12px 24px;
+    border-radius: 999px; 
+    border: none;
+    background-color: #31b039;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border: #008ad9 5px solid;
+    
+}
+.button a:hover {
+    background-color: #32dd49;
+}

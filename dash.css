@@ -1,0 +1,32 @@
+.heading{
+
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    margin-top: 25px;
+    color: #e73df4;
+}
+
+body{
+
+    background: #ffccfd;
+}
+
+.card-wrapper {
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    width: 225px;
+    height: 250px;
+    margin: 20px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    font-size: 12px;
+}
+
+.card h2 {
+    color: #333333;
+    margin-top: 95px;
+    
+    font-size: 17px;
+}
